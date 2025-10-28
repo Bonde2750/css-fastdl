@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/likeaworm/sylvester/sylvester_eyes"
+	"$nocull" 1
+}

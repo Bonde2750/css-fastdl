@@ -1,0 +1,24 @@
+"eyerefract"
+{
+	"$iris" 				"models\player\likeaworm\alucard\alucard_eyeballs"
+	"$ambientoccltexture" 	"models\player\likeaworm\alucard\mechanic_eye_ao"
+	"$envmap" 				"models\player\likeaworm\alucard\eye-reflection-cubemap-"
+	"$corneatexture" 		"models\player\likeaworm\alucard\eyes_cornea"
+	"$lightwarptexture" 	"models\player\likeaworm\alucard\eye_lightwarp"
+
+	"$irisframe" 			"3"
+
+"$ambientocclcolor" 	"[0.4 0.3 0.27]"
+"$dilation" 			"0.5"
+"$glossiness" 			"0.75"
+"$parallaxstrength" 	"0.25"
+"$corneabumpstrength" 	"0.25"
+"$halflambert" 			"1"
+"$nodecal" 				"1"
+"$ambientocclusion" 	"0.5"
+
+"$eyeballradius" 		"0.605"
+"$raytracesphere" 		"0"
+"$spheretexkillcombo" 	"0"
+
+}

@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+    "$basetexture" "models\player\likeaworm\alucard\pant_rgb"
+    "$bumpmap" "models\player\likeaworm\alucard\pant_n"
+    "$phongexponenttexture" "models\player\likeaworm\alucard\pant_e"
+
+    "$phong" "1"
+    "$phongboost" ".51"
+    "$phongalbedotint" "1"
+    "$phongalbedoboost" "10"                                //toy around with this
+    "$phongfresnelranges" "[1 0.1 0]"
+
+  
+}

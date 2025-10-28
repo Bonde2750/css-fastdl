@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/biko/fortnite/chillcat_pm/ChillCat_Head_Neutral2"
+	"$bumpmap" "models/player/biko/fortnite/chillcat_pm/ChillCat_Head_Neutral2_Normal"
+}
